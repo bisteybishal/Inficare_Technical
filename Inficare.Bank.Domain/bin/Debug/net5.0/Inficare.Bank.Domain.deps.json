@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Inficare.Bank.Domain/1.0.0": {
+        "runtime": {
+          "Inficare.Bank.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inficare.Bank.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
