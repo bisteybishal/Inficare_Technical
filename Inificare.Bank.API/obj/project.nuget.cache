@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TYQtcDmCxMiaKJNzFQj2kYr3Cj9jLsAMEz6Rrx6p0x8dXcHKzcSeYrD31N9hZxTXyJfHTaTOV+y2ntYSlJZjFQ==",
+  "dgSpecHash": "uyLoUab61bCiUPIpHXNsXrgfz34n0SKGqY3Qo6tbo+RKkzkLSNwzd2Ag7vah/L+/uJNT9vzafEngTlsAT3Ojwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Desktop\\Inficare\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
+  "projectFilePath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.6\\microsoft.aspnetcore.authentication.jwtbearer.5.0.6.nupkg.sha512",

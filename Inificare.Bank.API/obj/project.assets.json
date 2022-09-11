@@ -5746,11 +5746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Inficare\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
       "projectName": "Inificare.Bank.API",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Inficare\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inificare.Bank.API\\Inificare.Bank.API.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Inficare\\Inificare.Bank.API\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inificare.Bank.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5767,11 +5767,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\dell\\Desktop\\Inficare\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Inficare\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj"
+            "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj"
             },
-            "C:\\Users\\dell\\Desktop\\Inficare\\Inficare.Bank.Service\\Inficare.Bank.Service.csproj": {
-              "projectPath": "C:\\Users\\dell\\Desktop\\Inficare\\Inficare.Bank.Service\\Inficare.Bank.Service.csproj"
+            "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inficare.Bank.Service\\Inficare.Bank.Service.csproj": {
+              "projectPath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inficare.Bank.Service\\Inficare.Bank.Service.csproj"
             }
           }
         }
