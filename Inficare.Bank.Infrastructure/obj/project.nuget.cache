@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P21jDT29BzNJINnoOGbU05GcAGRu1c6esjxL+Ox3T7/nBkd2gkLuyrqBtZd+zBvgPCqjvK2fMW1s7mAeCQGvbA==",
+  "dgSpecHash": "DZnuOAETKWHmIhOb7NfvW256GVClGkrB/UVVFPX7SHCanaTZXdtRBrLjRarnHsOVR+iEbyrxHmdawxltEUQs9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\source\\repos\\InficareTechincal\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Source\\Repos\\Inficare_Technical\\Inficare.Bank.Infrastructure\\Inficare.Bank.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
