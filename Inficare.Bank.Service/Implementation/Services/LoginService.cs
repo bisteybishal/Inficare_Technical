@@ -16,19 +16,16 @@ namespace Inficare.Bank.Service.Implementation.Services
             _loginRepository = loginRepository;
             _tokenGenerator = tokenGenerator;
         }
-
         public BankEmployeeDto Login(string email, string password)
         {
             bool isSuccess = _loginRepository.Login(email, password);
             if (!isSuccess) throw new Exception("unauthorise credentials");
             var token = _tokenGenerator.GenerateToken(email);
-
             return new BankEmployeeDto
             {
                 Email = email,
                 Token = token
             };
-
-        }
+       }
     }
 }
